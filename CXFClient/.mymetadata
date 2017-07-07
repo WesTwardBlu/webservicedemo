@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CXFClient"
+  id="myeclipse.1499342223383"
+  context-root="/CXFClient"
+  j2ee-spec="6.0"
+  archive="CXFClient.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
